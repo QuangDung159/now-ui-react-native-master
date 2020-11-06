@@ -4,7 +4,7 @@
 
 3. On your phone, go to CH Play (Android)/App Store (IOS), download Expo Client app
 
-4. At source code root, run : "expo start"
+4. At source code root, run "npm i" then run "expo start"
 
 5. Scan the QR code (your phone and PC must be under LAN)
 
